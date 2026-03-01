@@ -15,10 +15,10 @@ export default function Vorteile() {
             <div className="max-w-7xl mx-auto px-6 grid lg:grid-cols-2 gap-16 items-center">
                 <div className="reveal">
                     <span className="text-system-blue font-bold tracking-[0.2em] uppercase text-sm mb-4 block">Lieferumfang</span>
-                    <h2 className="text-4xl md:text-5xl font-bold mb-6">Warum bei mir <span className="text-system-blue text-gradient-blue">kaufen?</span></h2>
+                    <h2 className="text-4xl md:text-5xl font-bold mb-6">Warum bei uns <span className="text-system-blue text-gradient-blue">kaufen?</span></h2>
                     <p className="text-system-muted text-lg mb-10 leading-relaxed">
-                        Ich liefere keine "Baustelle", sondern ein schlüsselfertiges System.
-                        Sie geben mir Ihre Daten, und wenige Tage später ist Ihr Business digital auf Profi-Niveau.
+                        Wir liefern keine "Baustelle", sondern ein schlüsselfertiges System.
+                        Sie geben uns Ihre Daten, und wenige Tage später ist Ihr Business digital auf Profi-Niveau.
                     </p>
 
                     <div className="space-y-4">
@@ -35,7 +35,7 @@ export default function Vorteile() {
                     <div className="bg-white rounded-2xl p-10 border border-system-border blue-glow relative z-10">
                         <h3 className="text-2xl font-bold mb-4 text-system-blue italic">Interesse?</h3>
                         <p className="text-xl text-system-text leading-relaxed mb-8 font-medium">
-                            "Schreiben Sie mir eine Nachricht mit Ihren Fragen! Ich erstelle für Sie eine hochmoderne, voll funktionsfähige Landingpage."
+                            "Schreiben Sie uns eine Nachricht mit Ihren Fragen! Wir erstellen für Sie eine hochmoderne, voll funktionsfähige Landingpage."
                         </p>
                         <a href="https://wa.me/38269568067" className="btn-primary inline-block text-center w-full sm:w-auto">
                             JETZT ANFRAGEN

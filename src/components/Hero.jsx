@@ -20,7 +20,7 @@ export default function Hero() {
 
                     <p className="text-lg md:text-xl text-system-muted leading-relaxed mb-10 max-w-xl">
                         Bieten Sie Ihren Kunden ein erstklassiges Erlebnis – nicht nur eine einfache Webseite.
-                        Ich erstelle für Sie eine voll funktionsfähige Landingpage inkl. Termin-Kalender & WhatsApp-Synchronisation.
+                        Wir erstellen für Sie eine voll funktionsfähige Landingpage inkl. Termin-Kalender & WhatsApp-Synchronisation.
                     </p>
 
                     <div className="flex flex-col sm:flex-row gap-4">

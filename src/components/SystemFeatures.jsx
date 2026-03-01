@@ -1,5 +1,5 @@
 import React from 'react';
-import { Calendar, MessageSquare, RefreshCw, Layout, DollarSign } from 'lucide-react';
+import { Calendar, MessageSquare, RefreshCw, Layout, DollarSign, Rocket } from 'lucide-react';
 
 const highlights = [
     {
@@ -31,6 +31,12 @@ const highlights = [
         title: 'Keine Abogebühren',
         desc: 'Einmalige Einrichtung ohne monatliche Systemkosten oder versteckte Gebühren.',
         icon: <DollarSign className="w-8 h-8" />,
+    },
+    {
+        id: 6,
+        title: 'High-Speed-Performance',
+        desc: 'Optimierte Ladezeiten und erstklassige Google Core Web Vitals für Ihr Business.',
+        icon: <Rocket className="w-8 h-8" />,
     },
 ];
 

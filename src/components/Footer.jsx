@@ -24,7 +24,7 @@ export default function Footer() {
                     <h5 className="font-bold mb-4 uppercase text-xs tracking-widest text-system-muted">Kontakt</h5>
                     <p className="text-system-text font-bold mb-2">Bereit für den nächsten Schritt?</p>
                     <a href="https://wa.me/38269568067" className="text-system-blue font-bold hover:underline">
-                        Schreiben Sie mir auf WhatsApp
+                        Schreiben Sie uns auf WhatsApp
                     </a>
                 </div>
             </div>
