@@ -21,21 +21,16 @@ jobs:
         with:
           node-version: 20
           cache: 'npm'
-          cache-dependency-path: premium-web-system/package-lock.json
 
       - name: Install dependencies
-        run: |
-          cd premium-web-system
-          npm ci
+        run: npm ci
 
       - name: Build
-        run: |
-          cd premium-web-system
-          npm run build
+        run: npm run build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./premium-web-system/dist
+          publish_dir: ./dist
           publish_branch: gh-pages
