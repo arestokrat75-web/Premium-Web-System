@@ -5,7 +5,7 @@ const samples = [
     { id: 2, src: 'https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=800&auto=format&fit=crop', title: 'Service Landingpage' },
     { id: 3, src: 'https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format&fit=crop', title: 'Modern Office' },
     { id: 4, src: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&auto=format&fit=crop', title: 'Analytics View' },
-    { id: 5, src: 'https://images.unsplash.com/photo-1454165833767-131e84a1443d?w=800&auto=format&fit=crop', title: 'Creative Agency' },
+    { id: 5, src: 'https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?w=800&auto=format&fit=crop', title: 'Creative Agency' },
     { id: 6, src: 'https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800&auto=format&fit=crop', title: 'Team Collaboration' },
 ];
 
